@@ -30,6 +30,6 @@ int main() {
     cout << "\nAccessing valid index (2): ";
     cout << a[2] << endl;
     cout << "\nAccessing invalid index (7): ";
-    cout << a[7];   // will show error
+    cout << a[7];  
     return 0;
 }
